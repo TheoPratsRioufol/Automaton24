@@ -113,4 +113,7 @@ git pull
 ./run
 ```
 
+# Ressources
+
+head position vector analysis : https://arxiv.org/pdf/1811.00661
 
