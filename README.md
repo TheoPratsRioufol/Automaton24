@@ -116,4 +116,5 @@ git pull
 # Ressources
 
 head position vector analysis : https://arxiv.org/pdf/1811.00661
+corneal specular highlights comparaison : https://arxiv.org/pdf/2009.11924
 
